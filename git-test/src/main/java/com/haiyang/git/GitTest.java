@@ -10,6 +10,6 @@ package com.haiyang.git;
 public class GitTest {
     public static void main(String[] args) {
         System.out.println("hello git");
-        System.out.println("hhhh");
+        System.out.println("hello git2");
     }
 }
